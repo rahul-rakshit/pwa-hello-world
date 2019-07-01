@@ -4,9 +4,80 @@
   "description": "This is a demo of a progressive web app",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "/icons/smiley1024.png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/icons/smiley152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/icons/smiley36.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "/icons/smiley72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/icons/smiley120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "/icons/smiley180.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/icons/smiley44.png",
+      "sizes": "44x44"
+    },
+    {
+      "src": "/icons/smiley76.png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/icons/smiley1240x600.png",
+      "sizes": "1240x600"
+    },
+    {
+      "src": "/icons/smiley192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/smiley48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/icons/smiley88.png",
+      "sizes": "88x88"
+    },
+    {
+      "src": "/icons/smiley144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icons/smiley24.png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "/icons/smiley50.png",
+      "sizes": "50x50"
+    },
+    {
+      "src": "/icons/smiley96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/icons/smiley150.png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "/icons/smiley300.png",
+      "sizes": "300x300"
+    },
+    {
+      "src": "/icons/smiley620x300.png",
+      "sizes": "620x300"
     }
   ],
   "start_url": ".",
