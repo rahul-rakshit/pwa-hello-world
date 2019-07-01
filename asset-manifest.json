@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.38d01169.chunk.css",
-    "main.js": "/static/js/main.f30316ba.chunk.js",
-    "main.js.map": "/static/js/main.f30316ba.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d042e1ad.chunk.js": "/static/js/2.d042e1ad.chunk.js",
-    "static/js/2.d042e1ad.chunk.js.map": "/static/js/2.d042e1ad.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.52b5598b111dd3cbc70f5fee83d9201f.js": "/precache-manifest.52b5598b111dd3cbc70f5fee83d9201f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.38d01169.chunk.css.map": "/static/css/main.38d01169.chunk.css.map"
+    "main.css": "/pwa-hello-world/static/css/main.38d01169.chunk.css",
+    "main.js": "/pwa-hello-world/static/js/main.1c269d1e.chunk.js",
+    "main.js.map": "/pwa-hello-world/static/js/main.1c269d1e.chunk.js.map",
+    "runtime~main.js": "/pwa-hello-world/static/js/runtime~main.869c722a.js",
+    "runtime~main.js.map": "/pwa-hello-world/static/js/runtime~main.869c722a.js.map",
+    "static/js/2.d042e1ad.chunk.js": "/pwa-hello-world/static/js/2.d042e1ad.chunk.js",
+    "static/js/2.d042e1ad.chunk.js.map": "/pwa-hello-world/static/js/2.d042e1ad.chunk.js.map",
+    "index.html": "/pwa-hello-world/index.html",
+    "precache-manifest.f661dcabc6574c7a341bcc57fab91249.js": "/pwa-hello-world/precache-manifest.f661dcabc6574c7a341bcc57fab91249.js",
+    "service-worker.js": "/pwa-hello-world/service-worker.js",
+    "static/css/main.38d01169.chunk.css.map": "/pwa-hello-world/static/css/main.38d01169.chunk.css.map"
   }
 }
