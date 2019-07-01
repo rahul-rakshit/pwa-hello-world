@@ -29,5 +29,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rahul-rakshit.github.io/pwa-hello-world"
+  "homepage": "https://rahul-rakshit.github.io/pwa-hello-world",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
