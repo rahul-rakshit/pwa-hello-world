@@ -1,0 +1,10 @@
+.add-button {
+  font-family: "Luckiest Guy", cursive;
+  font-size: 32px;
+  padding: 10px;
+  border-radius: 10%;
+}
+
+.add-button:hover {
+  color: gray;
+}
