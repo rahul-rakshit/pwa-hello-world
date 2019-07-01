@@ -38,30 +38,56 @@
   border-radius: 10%;
 }
 
-.button:hover {
-  color: gray;
-}
-
 .orange {
   background-color: orange;
+}
+
+.orange:hover {
+  color: orange;
+  background-color: black;
 }
 
 .aqua {
   background-color: aqua;
 }
 
+.aqua:hover {
+  color: aqua;
+  background-color: black;
+}
+
 .khaki {
   background-color: khaki;
+}
+
+.khaki:hover {
+  color: khaki;
+  background-color: black;
 }
 
 .skyblue {
   background-color: skyblue;
 }
 
+.skyblue:hover {
+  color: skyblue;
+  background-color: black;
+}
+
 .tomato {
   background-color: tomato;
 }
 
+.tomato:hover {
+  color: tomato;
+  background-color: black;
+}
+
 .hotpink {
   background-color: hotpink;
+}
+
+.hotpink:hover {
+  color: hotpink;
+  background-color: black;
 }
