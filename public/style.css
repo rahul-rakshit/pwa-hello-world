@@ -6,5 +6,6 @@
 }
 
 .add-button:hover {
-  color: gray;
+  color: black
+  background-color: white;
 }
