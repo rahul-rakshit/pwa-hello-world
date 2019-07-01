@@ -4,17 +4,17 @@
   "description": "This is a demo of a progressive web app",
   "icons": [
     {
-      "src": "./icons/smiley192.png",
+      "src": "smiley192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./icons/smiley300.png",
+      "src": "smiley300.png",
       "sizes": "300x300",
       "type": "image/png"
     },
     {
-      "src": "./icons/smiley512.png",
+      "src": "smiley512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
